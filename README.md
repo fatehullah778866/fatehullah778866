@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Fateh Ullah 👋
 
-<!--
-**fatehullah778866/fatehullah778866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Engineer at **Kompass Technologies Private Limited**  
+I work on building structured, reliable information systems with a focus on
+clarity, accuracy, and long-term scalability.
 
-Here are some ideas to get you started:
+## What I work on
+- Visa and policy intelligence platforms
+- Backend systems and cloud-native services
+- Structured data and system reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Backend:** Go (Golang)
+- **Frontend:** Next.js, TypeScript
+- **Cloud:** Google Cloud Platform
+- **Focus:** Clean architecture, data consistency
+
+## Current Focus
+- Building visa intelligence systems starting from Pakistan
+- Designing systems people can rely on for critical information
+
+> I believe trustworthy software starts with clear structure and calm design.
