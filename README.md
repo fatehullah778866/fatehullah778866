@@ -1,4 +1,4 @@
-# Hi, I’m Fateh Ullah 👋
+# Hi, I’m Fateh Ullah 
 
 Product Engineer at **Kompass Technologies Private Limited**  
 I work on building structured, reliable information systems with a focus on
